@@ -1,4 +1,4 @@
 Instrusction for this page
 - juttua..taas
 
-Lisää muutoksia toisesta branchistä
+Muutokset toisesta branchistä
